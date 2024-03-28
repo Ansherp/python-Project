@@ -2,9 +2,10 @@
 
 ## 1.环境安装
 
-    create an anaconda environment by referring to [VolSDF](https://github.com/lioryariv/volsdf.git).
-    使用Volsdf的[environment.yaml]https://github.com/lioryariv/volsdf/blob/main/environment.yml)
-    cmd ['conda env create -f environment.yaml']
+    create an anaconda environment by referring to 
+[VolSDF](https://github.com/lioryariv/volsdf.git).
+使用Volsdf的[environment.yaml]https://github.com/lioryariv/volsdf/blob/main/environment.yml)
+cmd ['conda env create -f environment.yaml']
 
 
 
